@@ -1,0 +1,6 @@
+{
+  "name": "Comercio Electrónico Minimalista",
+  "description": "Una tienda de diseño minimalista con catálogo interactivo, filtros y carrito integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
